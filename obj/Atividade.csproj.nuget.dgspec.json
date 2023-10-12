@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_Senai\\Atividade\\Atividade.csproj": {}
+    "C:\\_Senai\\atividade\\Atividade.csproj": {}
   },
   "projects": {
-    "C:\\_Senai\\Atividade\\Atividade.csproj": {
+    "C:\\_Senai\\atividade\\Atividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_Senai\\Atividade\\Atividade.csproj",
+        "projectUniqueName": "C:\\_Senai\\atividade\\Atividade.csproj",
         "projectName": "Atividade",
-        "projectPath": "C:\\_Senai\\Atividade\\Atividade.csproj",
+        "projectPath": "C:\\_Senai\\atividade\\Atividade.csproj",
         "packagesPath": "C:\\Users\\REDE-001875\\.nuget\\packages\\",
-        "outputPath": "C:\\_Senai\\Atividade\\obj\\",
+        "outputPath": "C:\\_Senai\\atividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\REDE-001875\\AppData\\Roaming\\NuGet\\NuGet.Config",
